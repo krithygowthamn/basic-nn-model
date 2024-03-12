@@ -83,21 +83,17 @@ X_n1_1 = Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
-```
 ![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/cd16b328-9e91-43d6-b3f2-e3a8824baf41)
-```
+
 ## OUTPUT
 ### Training Loss Vs Iteration Plot
-```
 ![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/363a3f16-3265-495b-b6f9-15c59337c75f)
-```
+
 ### Test Data Root Mean Squared Error
-```
 ![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/c6c95b2c-034f-4d5d-b0c5-ac986e381050)
-```
+
 ## New Sample Data Prediction
-```
 ![image](https://github.com/krithygowthamn/basic-nn-model/assets/122247810/ec24ceda-b098-4045-ba4b-b3d8cc0730d7)
-```
+
 ## RESULT
 Thus to develop a neural network regression model for the dataset created is successfully executed.
